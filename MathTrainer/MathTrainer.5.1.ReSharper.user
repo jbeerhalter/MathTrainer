@@ -1,0 +1,227 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.Designer.cs" caret="8997" fromTop="80" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="4510" fromTop="37" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="4308" fromTop="15" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="4923" fromTop="32" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="3999" fromTop="5" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="2221" fromTop="21" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="429" fromTop="18" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="1972" fromTop="37" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="1809" fromTop="32" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="5677" fromTop="11" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="5762" fromTop="15" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="7592" fromTop="31" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="6261" fromTop="27" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="6415" fromTop="32" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="6606" fromTop="35" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="6786" fromTop="36" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="7302" fromTop="24" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="8696" fromTop="24" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="763" fromTop="16" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="7753" fromTop="23" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="8073" fromTop="22" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="8253" fromTop="21" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="8434" fromTop="27" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="8622" fromTop="21" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="7385" fromTop="18" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="8696" fromTop="18" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="8670" fromTop="12" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="5539" fromTop="5" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="4186" fromTop="26" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="4409" fromTop="16" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="3744" fromTop="14" />
+      <File id="4ED48D3E-BF6C-4B68-8604-05C4AFF82861/f:MainForm.cs" caret="4510" fromTop="37" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="private" priority="14" />
+      <Item value="void" priority="8" />
+      <Item value="SetupDefaultProblem`0" priority="0" />
+      <Item value="lblTopNumber" priority="6" />
+      <Item value="lblBottomNumber" priority="4" />
+      <Item value="lblOperand" priority="2" />
+      <Item value="e" priority="14" />
+      <Item value="Enter" priority="0" />
+      <Item value="Func" priority="6" />
+      <Item value="int" priority="15" />
+      <Item value="AcceptRejectRule`0" priority="2" />
+      <Item value="_currentFunction" priority="9" />
+      <Item value="AddingNewEventArgs`0" priority="1" />
+      <Item value="List" priority="3" />
+      <Item value="if" priority="21" />
+      <Item value="Keys`0" priority="2" />
+      <Item value="new" priority="5" />
+      <Item value="List&lt;Keys&gt;" priority="0" />
+      <Item value="_validKeys" priority="5" />
+      <Item value="return" priority="6" />
+      <Item value="KeyCode" priority="0" />
+      <Item value="lblAnswer" priority="2" />
+      <Item value="char" priority="4" />
+      <Item value="CheckBox`0" priority="0" />
+      <Item value="List&lt;char&gt;" priority="2" />
+      <Item value="Convert`0" priority="6" />
+      <Item value="_currentAnswer" priority="6" />
+      <Item value="false" priority="3" />
+      <Item value="UpdateCurrentAnswerLabel`0" priority="1" />
+      <Item value="crap" priority="0" />
+      <Item value="string" priority="3" />
+      <Item value="curAnswer" priority="1" />
+      <Item value="else" priority="0" />
+      <Item value="MessageBox`0" priority="1" />
+      <Item value="lblCorrectIncorrect" priority="3" />
+      <Item value="Color`0" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="ThreadExceptionDialog`0" priority="0" />
+      <Item value="System" priority="5" />
+      <Item value="Threading" priority="2" />
+      <Item value="Thread`0" priority="2" />
+      <Item value="Math`0" priority="0" />
+      <Item value="Random`0" priority="1" />
+      <Item value="Random" priority="0" />
+      <Item value="DateTime`0" priority="2" />
+      <Item value="random" priority="14" />
+      <Item value="CurrencyManager`0" priority="0" />
+      <Item value="ProcessNextQuestion`0" priority="1" />
+      <Item value="this" priority="3" />
+      <Item value="lblMoneyEarned" priority="3" />
+      <Item value="IO" priority="0" />
+      <Item value="File`0" priority="0" />
+      <Item value="cboFunction" priority="5" />
+      <Item value="cboLevel" priority="1" />
+      <Item value="out" priority="3" />
+      <Item value="enum" priority="0" />
+      <Item value="Enum`0" priority="0" />
+      <Item value="FunctionType`0" priority="6" />
+      <Item value="bottom" priority="10" />
+      <Item value="top" priority="8" />
+      <Item value="funcType" priority="0" />
+      <Item value="functionType" priority="3" />
+      <Item value="Addition" priority="0" />
+      <Item value="Subtraction" priority="0" />
+      <Item value="Multiplication" priority="0" />
+      <Item value="Division" priority="0" />
+      <Item value="level" priority="5" />
+      <Item value="GetTopAndBottomForFunctionAndLevel`0" priority="0" />
+      <Item value="bool" priority="1" />
+      <Item value="a" priority="0" />
+      <Item value="b" priority="0" />
+      <Item value="abstract" priority="1" />
+      <Item value="curFunc" priority="0" />
+      <Item value="multiplication" priority="0" />
+      <Item value="division" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="21" />
+      <Item value="ForeColor" priority="0" />
+      <Item value="Visible" priority="2" />
+      <Item value="Enabled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.KeyPressEventArgs">
+      <Item value="KeyChar" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.KeyEventArgs">
+      <Item value="KeyCode" priority="5" />
+      <Item value="KeyData" priority="1" />
+      <Item value="KeyValue" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Sum`1" priority="0" />
+      <Item value="Add`0" priority="2" />
+      <Item value="Contains`0" priority="1" />
+      <Item value="ToString`0" priority="1" />
+      <Item value="ToList`1" priority="1" />
+      <Item value="Count" priority="0" />
+      <Item value="Last`1" priority="1" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="ToArray`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Keys">
+      <Item value="NumPad0" priority="1" />
+      <Item value="NumPad1" priority="0" />
+      <Item value="Delete" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToCharArray`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt32`0" priority="4" />
+      <Item value="ToString`0" priority="1" />
+      <Item value="ToDecimal`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="Green" priority="0" />
+      <Item value="Red" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="1" />
+      <Item value="SpinWait`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MathTrainer.MainForm">
+      <Item value="lblCorrectIncorrect" priority="0" />
+      <Item value="Refresh`0" priority="1" />
+      <Item value="Focus`0" priority="0" />
+      <Item value="Activate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Millisecond" priority="0" />
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="15" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Decimal">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Exists`0" priority="0" />
+      <Item value="WriteAllText`0" priority="0" />
+      <Item value="AppendAllText`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="SelectedIndex" priority="2" />
+      <Item value="DataSource" priority="0" />
+      <Item value="SelectedItem" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Enum">
+      <Item value="GetValues`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MathTrainer.MainForm+FunctionType">
+      <Item value="Addition" priority="1" />
+      <Item value="Subtraction" priority="1" />
+      <Item value="Multiplication" priority="1" />
+      <Item value="Division" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
